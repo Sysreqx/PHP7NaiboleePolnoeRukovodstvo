@@ -12,7 +12,7 @@
 </head>
 <body>
 <?php 
-    require_once "anonym_nested.php";
+    require_once "pages/test.php";
 ?>
 </body>
 </html>
