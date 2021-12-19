@@ -12,7 +12,7 @@
 </head>
 <body>
 <?php 
-    require_once "traits_conflict.php";
+    require_once "few_use.php";
 ?>
 </body>
 </html>
