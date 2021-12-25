@@ -12,7 +12,7 @@
 </head>
 <body>
 <?php 
-    require_once "iface/test.php";
+    require_once "catchall.php";
 ?>
 </body>
 </html>
